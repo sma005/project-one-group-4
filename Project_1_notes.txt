@@ -1,0 +1,50 @@
+Project Title
+---------------------------------------------------
+Benafsha Ali Shah
+Steven Anthony
+Carlos Arenas
+Dena Wetmore
+---------------------------------------------------
+QUESTIONS
+
+Find the correlation between literacy and quality of life (high blood pressure/disease/cancer/etc...)
+
+Connection between literacy rate and life expectancy?
+Connection between literacy rate and cancer?
+
+???Unemployment levels and literacy rates?
+
+Age Group Affected?
+
+Geographic Area?
+Ethnicities?
+---------------------------------------------------
+DATASETS TO BE USED
+APIs to use
+Health
+https://health.gov/our-work/national-health-initiatives/health-literacy/consumer-health-content/free-web-content/apis-developers/api-documentation
+/topicsearch.json
+
+Health literacy
+https://health.gov/myhealthfinder/api/v3/itemlist.json?Type=topic
+/health.gov
+
+census data?
+
+Graduation rates
+https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_Census_2020_DHC_Age_and_Sex/FeatureServer/1
+
+https://www.opendatanetwork.com/entity/0400000US39/Ohio/education.graduation_rates.percent_less_than_9th_grade?year=2018
+
+
+--------------------------------------------------
+THINGS WE NEED TO FIND...
+Population
+#s of health ailments (cancer/high blood pressure/etc...)
+Graduation rates
+???Income
+Quality of life(Physical/Psycological/Social Relationship/Environment)(Mean score)
+
+http://healthliteracymap.unc.edu/ (Raw datasets)
+
+
