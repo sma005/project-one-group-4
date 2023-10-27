@@ -1,10 +1,50 @@
-Project Title
+Title
 ---------------------------------------------------
 Benafsha Ali Shah
 Steven Anthony
 Carlos Arenas
 Dena Wetmore
 ---------------------------------------------------
+
+
+Obesity:
+https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7
+
+Relationship to obesity
+1. Geographic location
+2. Education levels
+3. Crime Rates
+4. Income 
+5. Indicators of physical activity
+6. Diet
+7. Age
+8. Which one of these is the highest indicator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------
+Old project: Data is too spread out
 QUESTIONS
 
 Find the correlation between literacy and quality of life (high blood pressure/disease/cancer/etc...)
@@ -21,6 +61,12 @@ Ethnicities?
 ---------------------------------------------------
 DATASETS TO BE USED
 APIs to use
+
+https://data.cdc.gov/500-Cities-Places/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/k86t-wghb
+
+https://data.cdc.gov/browse
+https://data.cdc.gov/NCHS/Healthy-People-2020-Final-Progress-by-Population-G/3q3z-9ucr
+
 Health
 https://health.gov/our-work/national-health-initiatives/health-literacy/consumer-health-content/free-web-content/apis-developers/api-documentation
 /topicsearch.json
@@ -37,6 +83,17 @@ https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_Census_202
 https://www.opendatanetwork.com/entity/0400000US39/Ohio/education.graduation_rates.percent_less_than_9th_grade?year=2018
 
 
+Alternatives:
+https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7
+
+
+
+Key words to use while searching for APIs
+
+CDC
+Healthy
+
+
 --------------------------------------------------
 THINGS WE NEED TO FIND...
 Population
@@ -46,5 +103,23 @@ Graduation rates
 Quality of life(Physical/Psycological/Social Relationship/Environment)(Mean score)
 
 http://healthliteracymap.unc.edu/ (Raw datasets)
+---------------------------------------------------
 
+1.Measures of central tendencies for literacy (broken down by ethnicity)
+2.Measures of central tendencies for quality of life (broken down by ethnicity)
+3.Top 5 areas for literacy (broken down by ethnicity)
+4.Bottom 5 areas for literacy (broken down by ethnicity)
+5.Top 5 areas for quality of life (broken down by ethnicity)
+6.Bottom 5 areas for quality of life (broken down by ethnicity)
+7.What is the correlation between literacy and quality of life? (broken down by ethnicity)
+
+-----------------------------------------------------
+
+Talking points:
+1. Define literacy (health literacy)
+2. Define quality of life
+3. State which APIs were used
+4. State what was pulled from APIs
+5. Break down data (with charts)
+6. Explain results
 
