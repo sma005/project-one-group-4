@@ -1,10 +1,50 @@
-
+Title
 ---------------------------------------------------
 Benafsha Ali Shah
 Steven Anthony
 Carlos Arenas
 Dena Wetmore
 ---------------------------------------------------
+
+
+Obesity:
+https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7
+
+Relationship to obesity
+1. Geographic location
+2. Education levels
+3. Crime Rates
+4. Income 
+5. Indicators of physical activity
+6. Diet
+7. Age
+8. Which one of these is the highest indicator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------
+Old project: Data is too spread out
 QUESTIONS
 
 Find the correlation between literacy and quality of life (high blood pressure/disease/cancer/etc...)
