@@ -16,7 +16,7 @@ Relationship to obesity
 2. Education levels
 3. Crime Rates
 4. Income 
-5. Indicators of physical activity
+5. Ethnicity
 6. Diet
 7. Age
 8. Which one of these is the highest indicator
