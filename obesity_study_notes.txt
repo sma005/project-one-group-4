@@ -30,10 +30,25 @@ Project Work Flow
 4. Analyse the data and make plots to show mean, median, mode, correlations etc.
 5. Go over the completed project - ensure we are not missing an data
 6. Discuss how to present in class.
-    
 
+***********************************************************************************
+Notes from Steve:
+Hey y'all. A lot of the columns that I thought had data, were actually just NaN.
+Not sure how those columns came through if the JSON doesn't match.
+This is the info that I can pull from our previous meetings
+ -State (Geographic Location)
+ -Diet
+ -Age
+ -Diet(there are very specific questions)
+ 
+That's only 4
+ 
+I also did some exploration, and I can see that there are a lot of Nan values for the Age Group. I don't know if this is a sum, or more people who just didn't specify their age.
 
+Observe that I didn't use an API key for this data set. Not sure if we need to use another one from this site that uses an API key.
 
+A lot of what I did is just so we can see what we are working with. We may not want to keep it for our project.
+************************************************************************************
 
 
 
