@@ -11,6 +11,7 @@ Obesity:
 https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7
 https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Percent-of-adults-aged-18-and-older-who-have-obesi/tv7q-8s5b
 
+
 Relationship to obesity
 1. Geographic location
 2. Education levels
@@ -21,10 +22,12 @@ Relationship to obesity
 7. Age
 8. Which one of these is the highest indicator
 
+
+Project Work Flow
 1. Determine sources
 2. Develop Frame
 3. Split up tasks
-4. Discuss the results of the data and determine what graphs to create to display our results and explain our analysis.
+4. Analyse the data and make plots to show mean, median, mode, correlations etc.
 5. Go over the completed project - ensure we are not missing an data
 6. Discuss how to present in class.
     
