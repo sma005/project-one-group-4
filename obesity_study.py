@@ -17,6 +17,8 @@ from api_key import api_key
 #import data
 url = "https://data.cdc.gov/resource/hn4x-zwk7.json"
 
+response = requests.get(url)
+df = response.json()
 
 
 
