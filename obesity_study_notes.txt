@@ -1,4 +1,4 @@
-Title
+Nutrition, Physical, Activity, and Obesity Study
 ---------------------------------------------------
 Benafsha Ali Shah
 Steven Anthony
@@ -12,15 +12,35 @@ https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-
 https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Percent-of-adults-aged-18-and-older-who-have-obesi/tv7q-8s5b
 
 
-Relationship to obesity
-1. Geographic location
-2. Education levels
-3. Crime Rates
-4. Income 
-5. Ethnicity
-6. Diet
-7. Age
-8. Which one of these is the highest indicator
+Questions
+1. What percent of adults aged 18 years and older who have an overweight classification?
+    a. 
+    b.
+2. What percent of adults aged 18 years and older who have obesity?
+    a.
+    b.
+3. What percent of adults who engage in no leisure-time physical activity?
+    a. 
+    b. 
+4. What percent of adults who report consuming fruit less than one time daily?
+    a. 
+    b.
+5. What percent of adults who report consuming vegetables less than one time daily?
+    a. 
+    b.
+    
+  
+6. What is the linear regression of questions 3, 4, 5?
+7. What is the largest indicator of obesity?
+
+
+
+Analysis and Conclusion (20 points)
+Write-up summarizes major findings and implications at a professional level (5 points)
+Each question in the project proposal is answered with precise descriptions and findings (5 points)
+Findings are strongly supported with numbers and visualizations (5 points)
+Each question response is supported with a well-discerned statistical analysis from lessons (e.g., aggregation, correlation, comparison, summary statistics, sentiment analysis, and time series analysis)
+
 
 
 Project Work Flow
@@ -30,6 +50,11 @@ Project Work Flow
 4. Analyse the data and make plots to show mean, median, mode, correlations etc.
 5. Go over the completed project - ensure we are not missing an data
 6. Discuss how to present in class.
+
+
+
+
+
 
 ***********************************************************************************
 Notes from Steve:
@@ -62,7 +87,14 @@ A lot of what I did is just so we can see what we are working with. We may not w
 
 
 
-
+1. Geographic location
+2. Education levels
+3. Crime Rates
+4. Income 
+5. Ethnicity
+6. Diet
+7. Age
+8. Which one of these is the highest indicator
 
 
 
