@@ -33,6 +33,28 @@ Questions
 6. What is the linear regression of questions 3, 4, 5?
 7. What is the largest indicator of obesity?
 
+Presentation order with questions
+1. What percent of adults aged 18 years and older who have an overweight classification?
+    a. Grouped bar chart - Grouped by Age group / Total percentage
+    b. 
+2. What percent of adults aged 18 years and older who have obesity?
+    a. Grouped bar chart - Grouped by Age group / Total percentage
+    b.
+3. What percent of adults who engage in no leisure-time activity
+    a. Raw percentage
+4. What percent of adults who report consuming fruit less than one time daily?
+    a. Raw percentage
+5. What percent of adults who report consuming vegetables less than one time daily?
+    a. Raw percentage
+6. Bigger indicator - no-leisure and no-fruit
+    a. Scatter plot
+    b. Same scatter plot with line regression
+7. Bigger indicator - no leisure and no veggies
+    a. Scatter plot
+    b. Same scatter plot with line regression 
+8. Bigger indicator - no-fruit and no veggies
+    a. Scatter plot
+    b. Same scatter plot with line regression
 
 
 Analysis and Conclusion (20 points)
